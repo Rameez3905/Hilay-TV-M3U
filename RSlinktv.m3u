@@ -3,7 +3,7 @@
 # https://Rslinktv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Rslink TV",TV Maldives
-https://tvmhilayfeed.ishaukath.workers.dev/baa27d4d1f151714e3763ef3be83d24a/manifest/video.m3u8
+https://maldivesn.net/RSlinktv/tvmhilayfeed
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Rslink TV",MM TV
 https://sendlive.online/hls/mmtv.m3u8
