@@ -335,297 +335,297 @@ http://primestreams.tv/live/SF11/vulwBvtfo9/89213.ts
 #EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports Three UK" group-title="Rslink TV",TNT Sports Three UK
 http://primestreams.tv/live/SF11/vulwBvtfo9/89212.ts
 
-#EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Hilay TV",TNT Sports Four
+#EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Rslink TV",TNT Sports Four
 http://xplatinmedia.com:8080/CarlosIPTV/qFRvx7lHDCXjUXiov5zP8b95cVM2np/93693
 
-#EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Hilay TV",USA Network East
+#EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Rslink TV",USA Network East
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Hilay TV",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Rslink TV",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Hilay TV",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Rslink TV",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPN U" group-title="Hilay TV",ESPN U
+#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPN U" group-title="Rslink TV",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPN NEWS" group-title="Hilay TV",ESPN NEWS
+#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPN NEWS" group-title="Rslink TV",ESPN NEWS
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports One" group-title="Hilay TV",Fox Sports One
+#EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports One" group-title="Rslink TV",Fox Sports One
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisCh" tvg-name="Tennis Channel" group-title="Hilay TV",Tennis Channel
+#EXTINF:-1 tvg-id="TennisCh" tvg-name="Tennis Channel" group-title="Rslink TV",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS Sports Network" group-title="Hilay TV",CBS Sports Network
+#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS Sports Network" group-title="Rslink TV",CBS Sports Network
 https://a1xs.vip/rs/live/SF11/vulwBvtfo9/99477.ts
 
-#EXTINF:-1 tvg-id="realmadrid" tvg-name="Real Madrid TV" group-title="Hilay TV",Real Madrid TV
+#EXTINF:-1 tvg-id="realmadrid" tvg-name="Real Madrid TV" group-title="Rslink TV",Real Madrid TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ac6366c8-78e1-4c09-bb3f-e27c4a2a51cc/5.m3u8
 
-#EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes" group-title="Hilay TV",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes" group-title="Rslink TV",ESPN Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Baby First" group-title="Hilay TV",Baby First
+#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Baby First" group-title="Rslink TV",Baby First
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/d3bb2ef6-3e31-4ee6-8697-944ecd3a029d/1.m3u8
 
-#EXTINF:-1 tvg-id="ToonGoggles" tvg-name="Toon Goggles" group-title="Hilay TV",Toon Goggles
+#EXTINF:-1 tvg-id="ToonGoggles" tvg-name="Toon Goggles" group-title="Rslink TV",Toon Goggles
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69760ecf-0fc0-4ef7-8311-f917e89a2294/0.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network US" group-title="Hilay TV",Cartoon Network US
+#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network US" group-title="Rslink TV",Cartoon Network US
 https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug kids" group-title="Hilay TV",Moonbug kids
+#EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug kids" group-title="Rslink TV",Moonbug kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" group-title="Hilay TV",Disney Channel
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" group-title="Rslink TV",Disney Channel
 https://realsport.scalecdn.co/hankstreamer/sYWcksogwN/3630
 
-#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Junior" group-title="Hilay TV",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Junior" group-title="Rslink TV",Disney Junior
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" group-title="Hilay TV",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" group-title="Rslink TV",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="Hilay TV",Boomerang
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="Rslink TV",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Hilay TV",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Rslink TV",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons US" group-title="Hilay TV",Nicktoons US
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons US" group-title="Rslink TV",Nicktoons US
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr US" group-title="Hilay TV",Nick Jr US
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr US" group-title="Rslink TV",Nick Jr US
 http://primestreams.tv:826/live/SF11/vulwBvtfo9/98815.ts
 
-#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Hilay TV",PBS Kids
+#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Rslink TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" group-title="Hilay TV",HBO Family
+#EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" group-title="Rslink TV",HBO Family
 http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Hilay TV",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Rslink TV",HBO
 http://fl3.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Hilay TV",HBO Comedy
+#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Rslink TV",HBO Comedy
 http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" group-title="Hilay TV",HBO Zone
+#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" group-title="Rslink TV",HBO Zone
 http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Hilay TV",HBO 2
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Rslink TV",HBO 2
 http://fl3.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="boxgamers" tvg-name="Box Gamers" group-title="Hilay TV",Box Gamers
+#EXTINF:-1 tvg-id="boxgamers" tvg-name="Box Gamers" group-title="Rslink TV",Box Gamers
 https://dr2t9f8nivbc6.cloudfront.net/hls/F63M6BQ/1E68BCFFE40D/m.m3u8
 
-#EXTINF:-1 tvg-id="9xm" tvg-name="9xM India" group-title="Hilay TV",9xM India
+#EXTINF:-1 tvg-id="9xm" tvg-name="9xM India" group-title="Rslink TV",9xM India
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/1123fa3f-5463-46e1-b560-87595d8bde62/3.m3u8
 
-#EXTINF:-1 tvg-id="humhd" tvg-name="Hum HD" group-title="Hilay TV",Hum HD
+#EXTINF:-1 tvg-id="humhd" tvg-name="Hum HD" group-title="Rslink TV",Hum HD
 http://tv.cloudcdn.me:80/live.ts?channelId=424&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-id="foxsp2" tvg-name="Fox Sports Two" group-title="Hilay TV",Fox Sports Two
+#EXTINF:-1 tvg-id="foxsp2" tvg-name="Fox Sports Two" group-title="Rslink TV",Fox Sports Two
 http://fortv.cc:8080/live/cQnq6G/652882/1847.m3u8
 
-#EXTINF:-1 tvg-id="astrogrand" tvg-name="Astro Grandstand" group-title="Hilay TV",Astro Grandstand
+#EXTINF:-1 tvg-id="astrogrand" tvg-name="Astro Grandstand" group-title="Rslink TV",Astro Grandstand
 http://103.140.3.18:7860/ddy/123
 
-#EXTINF:-1 tvg-id="kloopy" tvg-name="Kaloopy TV" group-title="Hilay TV",Kaloopy TV
+#EXTINF:-1 tvg-id="kloopy" tvg-name="Kaloopy TV" group-title="Rslink TV",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
 
-#EXTINF:-1 tvg-id="stingrayhitlist" tvg-name="Stinngray Hitlist" group-title="Hilay TV",Stinngray Hitlist
+#EXTINF:-1 tvg-id="stingrayhitlist" tvg-name="Stinngray Hitlist" group-title="Rslink TV",Stinngray Hitlist
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hit-list/ee0abb73-73b5-4505-99c2-0f75f800d2c3/0.m3u8
 
-#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music India" group-title="Hilay TV",B4U Music India
+#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music India" group-title="Rslink TV",B4U Music India
 http://175.107.244.52:4457/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-id="b4umovies" tvg-name="B4U Movies" group-title="Hilay TV",B4U Movies
+#EXTINF:-1 tvg-id="b4umovies" tvg-name="B4U Movies" group-title="Rslink TV",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="astrouhd" tvg-name="Astro UHD" group-title="Hilay TV",Astro UHD
+#EXTINF:-1 tvg-id="astrouhd" tvg-name="Astro UHD" group-title="Rslink TV",Astro UHD
 https://s1.m16tv.cfd/astro/astrosportuhd/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="usawest" tvg-name="USA Network West" group-title="Hilay TV",USA Network West
+#EXTINF:-1 tvg-id="usawest" tvg-name="USA Network West" group-title="Rslink TV",USA Network West
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Hilay TV",Astro Premier League 1
+#EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Rslink TV",Astro Premier League 1
 http://217.156.66.36:8080/c77a5914/cd600797bc/146068
 
-#EXTINF:-1 tvg-id="pltv" tvg-name="Premier League TV" group-title="Hilay TV",Premier League TV
+#EXTINF:-1 tvg-id="pltv" tvg-name="Premier League TV" group-title="Rslink TV",Premier League TV
 http://primestreams.tv/live/SF11/vulwBvtfo9/118592.ts
 
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Hilay TV",AXN
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Rslink TV",AXN
 https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="Hilay TV",HGTV
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="Rslink TV",HGTV
 http://fl3.moveonjoy.com/HGTV/index.m3u8
 
-#EXTINF:-1 tvg-id="rockaction" tvg-name="Rock Action" group-title="Hilay TV",Rock Action
+#EXTINF:-1 tvg-id="rockaction" tvg-name="Rock Action" group-title="Rslink TV",Rock Action
 https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="france24" tvg-name="France 24" group-title="Hilay TV",France 24
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24" group-title="Rslink TV",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="Hilay TV",CGTN
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="Rslink TV",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 
-#EXTINF:-1 tvg-id="arydigital" tvg-name="Ary Digital HD" group-title="Hilay TV",Ary Digital HD
+#EXTINF:-1 tvg-id="arydigital" tvg-name="Ary Digital HD" group-title="Rslink TV",Ary Digital HD
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="humsitaray" tvg-name="Hum HD" group-title="Hilay TV",Hum HD
+#EXTINF:-1 tvg-id="humsitaray" tvg-name="Hum HD" group-title="Rslink TV",Hum HD
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=5548
 
-#EXTINF:-1 tvg-id="geoent" tvg-name="Geo Entertainment HD" group-title="Hilay TV",Geo Entertainment HD
+#EXTINF:-1 tvg-id="geoent" tvg-name="Geo Entertainment HD" group-title="Rslink TV",Geo Entertainment HD
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=5534
 
-#EXTINF:-1 tvg-id="sonymovie" tvg-name="Sony Movie Channel" group-title="Hilay TV",Sony Movie Channel
+#EXTINF:-1 tvg-id="sonymovie" tvg-name="Sony Movie Channel" group-title="Rslink TV",Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="param" tvg-name="Paramount Network" group-title="Hilay TV",Paramount Network
+#EXTINF:-1 tvg-id="param" tvg-name="Paramount Network" group-title="Rslink TV",Paramount Network
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="boxingtv" tvg-name="Boxing TV" group-title="Hilay TV",Boxing TV
+#EXTINF:-1 tvg-id="boxingtv" tvg-name="Boxing TV" group-title="Rslink TV",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/66dd353b-af50-4df2-9e77-bd4c336b0bbe/4.m3u8
 
-#EXTINF:-1 tvg-id="impactwrestling" tvg-name="TNA Impact Wrestling" group-title="Hilay TV",TNA Impact Wrestling
+#EXTINF:-1 tvg-id="impactwrestling" tvg-name="TNA Impact Wrestling" group-title="Rslink TV",TNA Impact Wrestling
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991341
 
-#EXTINF:-1 tvg-id="billiard" tvg-name="Billiard TV" group-title="Hilay TV",Billiard TV
+#EXTINF:-1 tvg-id="billiard" tvg-name="Billiard TV" group-title="Rslink TV",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/632693b0-cd8f-4c25-b609-531d2ecd1d4e/4.m3u8
 
-#EXTINF:-1 tvg-id="powernation" tvg-name="PowerNation" group-title="Hilay TV",PowerNation
+#EXTINF:-1 tvg-id="powernation" tvg-name="PowerNation" group-title="Rslink TV",PowerNation
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
 
-#EXTINF:-1 tvg-id="speedvision" tvg-name="Speedvision" group-title="Hilay TV",Speedvision
+#EXTINF:-1 tvg-id="speedvision" tvg-name="Speedvision" group-title="Rslink TV",Speedvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
 
-#EXTINF:-1 tvg-id="myzen" tvg-name="MyZen TV" group-title="Hilay TV",MyZen TV
+#EXTINF:-1 tvg-id="myzen" tvg-name="MyZen TV" group-title="RslinkTV",MyZen TV
 http://cdnx1.plusx.tv:4000/myZen/mono.m3u8?token=b94a1c8d542f65ae6ad061f16c3830523333
 
-#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" group-title="Hilay TV",Discovery Channel
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" group-title="Rslink TV",Discovery Channel
 https://a1xs.vip/1000033
 
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" group-title="Hilay TV",Discovery Science
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" group-title="Rslink TV",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
-#EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="Investigation Discovery" group-title="Hilay TV",Investigation Discovery
+#EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="Investigation Discovery" group-title="Rslink TV",Investigation Discovery
 http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-id="discoverylife" tvg-name="Discovery Life" group-title="Hilay TV",Discovery Life
+#EXTINF:-1 tvg-id="discoverylife" tvg-name="Discovery Life" group-title="Rslink TV",Discovery Life
 http://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="tlc" tvg-name="Discovery TLC" group-title="Hilay TV",Discovery TLC
+#EXTINF:-1 tvg-id="tlc" tvg-name="Discovery TLC" group-title="Rslink TV",Discovery TLC
 http://fl3.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Discovery Animal Planet" group-title="Hilay TV",Discovery Animal Planet
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Discovery Animal Planet" group-title="Rslink TV",Discovery Animal Planet
 http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-id="discoveryfamily" tvg-name="Discovery Family Channel" group-title="Hilay TV",Discovery Family Channel
+#EXTINF:-1 tvg-id="discoveryfamily" tvg-name="Discovery Family Channel" group-title="Rslink TV",Discovery Family Channel
 http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="history" tvg-name="History Channel" group-title="Hilay TV",History Channel
+#EXTINF:-1 tvg-id="history" tvg-name="History Channel" group-title="Rslink TV",History Channel
 http://fl1.moveonjoy.com/history_channel/index.m3u8
 
-#EXTINF:-1 tvg-id="smithsonian" tvg-name="Smithsonian Channel" group-title="Hilay TV",Smithsonian Channel
+#EXTINF:-1 tvg-id="smithsonian" tvg-name="Smithsonian Channel" group-title="Rslink TV",Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="travelch" tvg-name="Travel Channel" group-title="Hilay TV",Travel Channel
+#EXTINF:-1 tvg-id="travelch" tvg-name="Travel Channel" group-title="RslinkTV",Travel Channel
 http://fl3.moveonjoy.com/Travel_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia News" group-title="Hilay TV",Australia News
+#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia News" group-title="Rslink TV",Australia News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-id="hallmarkfamily" tvg-name="Hallmark Family" group-title="Hilay TV",Hallmark Family
+#EXTINF:-1 tvg-id="hallmarkfamily" tvg-name="Hallmark Family" group-title="Rslink TV",Hallmark Family
 http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 tvg-id="swar" tvg-name="Swarnavahini" group-title="Hilay TV",Swarnavahini
+#EXTINF:-1 tvg-id="swar" tvg-name="Swarnavahini" group-title="Rslink TV",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-id="skybundesliga" tvg-name="Sky Sports Bundesliga" group-title="Hilay TV",Sky Sports Bundesliga
+#EXTINF:-1 tvg-id="skybundesliga" tvg-name="Sky Sports Bundesliga" group-title="Rslink TV",Sky Sports Bundesliga
 https://a1xs.vip/120002
 
-#EXTINF:-1 tvg-id="sportsfirst" tvg-name="Sports First TV" group-title="Hilay TV",Sports First TV
+#EXTINF:-1 tvg-id="sportsfirst" tvg-name="Sports First TV" group-title="Rslink TV",Sports First TV
 https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/2397e69f-024d-482d-818c-d2fb92ecaf1c/0.m3u8
 
-#EXTINF:-1 tvg-id="unbeaten" tvg-name="Unbeaten" group-title="Hilay TV",Unbeaten
+#EXTINF:-1 tvg-id="unbeaten" tvg-name="Unbeaten" group-title="Rslink TV",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" group-title="Hilay TV",Food Network
+#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" group-title="Rslink TV",Food Network
 http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="tntultimate" tvg-name="TNT Sports Ultimate UHD" group-title="Hilay TV",TNT Sports Ultimate UHD
+#EXTINF:-1 tvg-id="tntultimate" tvg-name="TNT Sports Ultimate UHD" group-title="Rslink TV",TNT Sports Ultimate UHD
 http://xc.tvset.top/live/DennisZurrieqpersonal/h73UbA7rwkbR/163577.ts
 
-#EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Hilay TV",Maliku TV
+#EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Rslink TV",Maliku TV
 https://malikutv.ishaukath.workers.dev/4c281d259338842704f23fe07636cdfa/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Hilay TV",DD Sports
+#EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Rslink TV",DD Sports
 https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=0abc6b14-c563-4851-a49b-4329f9d22be4
 
-#EXTINF:-1 tvg-id="zeebollywood" tvg-name="Bollywood HD" group-title="Hilay TV",Bollywood HD
+#EXTINF:-1 tvg-id="zeebollywood" tvg-name="Bollywood HD" group-title="Rslink TV",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/e0b51ae3-d393-422b-8585-68a582bbb5bb/0.m3u8
 
-#EXTINF:-1 tvg-id="zeeclassic" tvg-name="BollyWood Classic" group-title="Hilay TV",BollyWood Classic
+#EXTINF:-1 tvg-id="zeeclassic" tvg-name="BollyWood Classic" group-title="Rslink TV",BollyWood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/6c72358f-a68d-4108-a5ce-c2745ef6d526/0.m3u8
 
-#EXTINF:-1 tvg-id="goltv" tvg-name="Women Sports Network" group-title="Hilay TV",Women Sports Network
+#EXTINF:-1 tvg-id="goltv" tvg-name="Women Sports Network" group-title="Rslink TV",Women Sports Network
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
-#EXTINF:-1 tvg-id="cloudflaretv" tvg-name="Cloudflare TV" group-title="Hilay TV",Cloudflare TV
+#EXTINF:-1 tvg-id="cloudflaretv" tvg-name="Cloudflare TV" group-title="Rslink TV",Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="mutv" tvg-name="Manchester United TV" group-title="Hilay TV",Manchester United TV
+#EXTINF:-1 tvg-id="mutv" tvg-name="Manchester United TV" group-title="Rslink TV",Manchester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="staruk" tvg-name="Star Plus UK" group-title="Hilay TV",Star Plus UK
+#EXTINF:-1 tvg-id="staruk" tvg-name="Star Plus UK" group-title="Rslink TV",Star Plus UK
 http://s5.alltvfree.com:8081/live/StarPlus/chunks.m3u8
 
-#EXTINF:-1 tvg-id="zeeuk" tvg-name="Shemaroo Bollywood" group-title="Hilay TV",Shemaroo Bollywood
+#EXTINF:-1 tvg-id="zeeuk" tvg-name="Shemaroo Bollywood" group-title="Rslink TV",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/bcc176a6-d3b4-4044-835b-d2c65884bf8d/3.m3u8
 
 #EXTINF:-1 tvg-id="vsportuhd" tvg-name="VSport UltraHD" group-title="Hilay TV",VSport UltraHD
 https://a1xs.vip/9000013
 
-#EXTINF:-1 tvg-id="skysportslaliga" tvg-name="Sky Sports LaLiga" group-title="Hilay TV",Sky Sports LaLiga
+#EXTINF:-1 tvg-id="skysportslaliga" tvg-name="Sky Sports LaLiga" group-title="Rslink TV",Sky Sports LaLiga
 http://190.92.10.66:4000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="tensports" tvg-name="Ten Sports HD" group-title="Hilay TV",Ten Sports HD
+#EXTINF:-1 tvg-id="tensports" tvg-name="Ten Sports HD" group-title="Rslink TV",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="redbulltv" tvg-name="Redbull TV" group-title="Hilay TV",Redbull TV
+#EXTINF:-1 tvg-id="redbulltv" tvg-name="Redbull TV" group-title="Rslink TV",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
+#EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Rslink TV",LIVE EVENTS 1
 https://maldivesn.net/hilaytv/channel5uk
 
-#EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
+#EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Rslink TV",LIVE EVENTS 2
 https://maldivesn.net/hilaytv/itv1
 
-#EXTINF:-1 tvg-id="babyrhmes" tvg-name="Baby Rhymes" group-title="Hilay TV",Baby Rhymes
+#EXTINF:-1 tvg-id="babyrhmes" tvg-name="Baby Rhymes" group-title="Rslink TV",Baby Rhymes
 http://45.148.145.57/rhymes247_1/index.m3u8
 
-#EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Hilay TV",Cooking Channel
+#EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Rslink TV",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="arabica" tvg-name="Arabica TV" group-title="Hilay TV",Arabica TV
+#EXTINF:-1 tvg-id="arabica" tvg-name="Arabica TV" group-title="Rslink TV",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UltimateMusicChannel" tvg-name="The Ultimate Music Channel" group-title="Hilay TV",The Ultimate Music Channel
+#EXTINF:-1 tvg-id="UltimateMusicChannel" tvg-name="The Ultimate Music Channel" group-title="Rslink TV",The Ultimate Music Channel
 https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
 
-#EXTINF:-1 tvg-id="euronews" tvg-name="Euro News" group-title="Hilay TV",Euro News
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euro News" group-title="Rslink TV",Euro News
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/c1127aff-97b0-4058-97d6-aadbaaf5b6c4/5.m3u8
 
-#EXTINF:-1 tvg-id="howto" tvg-name="How it's Made" group-title="Hilay TV",How it's Made
+#EXTINF:-1 tvg-id="howto" tvg-name="How it's Made" group-title="Rslink TV",How it's Made
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1bf48d66-1346-41db-b80d-ecc0baf9af5c/0.m3u8
 
-#EXTINF:-1 tvg-id="sensicaljr" tvg-name="Sensical Jr" group-title="Hilay TV",Sensical Jr
+#EXTINF:-1 tvg-id="sensicaljr" tvg-name="Sensical Jr" group-title="Rslink TV",Sensical Jr
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/588249d5-ab5b-40f9-8951-7f99f488d05a/4.m3u8
 
-#EXTINF:-1 tvg-id="sensicalmakers" tvg-name="Sensical Makers" group-title="Hilay TV",Sensical Makers
+#EXTINF:-1 tvg-id="sensicalmakers" tvg-name="Sensical Makers" group-title="Rslink TV",Sensical Makers
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bb3bdc6c-a3a7-4029-b0fe-f25d170a11f1/4.m3u8
 
